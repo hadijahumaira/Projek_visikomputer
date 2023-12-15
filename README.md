@@ -12,6 +12,7 @@ Anggota : - Siti Nurrahmasita (2108107010015)
 
 ## Link GitHub sumber inspirasi:
 https://github.com/computervisioneng/sign-language-detector-python
+
 https://github.com/SohamPrajapati/sign-language-detector-flask-python/tree/master/data/
 
 ## Kontribusi baru terhadap project:
